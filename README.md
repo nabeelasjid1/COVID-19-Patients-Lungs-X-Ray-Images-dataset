@@ -3,7 +3,7 @@
 Download the whole directory and open it in pycharm or other editors. Create a new environment using requirements.txt file. Open the "generate_images.py" file in the editor and run the following commands one by one. This will create the dataset in the "generated-dataset" folder.
 # Useage Commands
 python generate_images.py --dataset dataset/covid --output generated_dataset/covid  
-python generate_images.py --dataset dataset/normal --output generated_dataset/normal
+python generate_images.py --dataset dataset/normal --output generated_dataset/normal  
 After that the dataset is ready to use
 
 # Usage
